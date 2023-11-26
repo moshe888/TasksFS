@@ -1,0 +1,83 @@
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+ }
+
+.title{
+     padding: 4px;
+     height: 75px;
+ }
+.navbar-nav{
+    padding-left: 25px;
+    margin-left: 25px;
+ 
+}
+.dodgerblue-text {
+    color: rgb(255, 255, 255);
+}
+.blu-text{
+    color:dodgerblue;
+}
+.attached-text p {
+    margin: 0;
+    line-height: 0.99; 
+    display: inline-block;  
+  }
+  
+ 
+
+.text-large {
+    font-size: 7vw;
+
+}
+ 
+.row1 {
+    background-color: #101010;
+    padding: 4%;
+    font-size: 3vw;
+    color: white;
+  }
+.row{
+    padding: 4%;
+
+}
+
+.row3{
+    background-color: #f3f4f5;
+    font-size: 2vw;
+    padding: 1% 10% 1% 10%;
+  }
+
+footer{
+    background-color: #101010;
+     color: white;
+    }
+   
+   .btn-card {
+    border: 1.5px solid rgb(228, 211, 22);
+     color: black;  
+     border-radius: 25px;  
+    padding: 10px;
+    font-weight: bold;  
+   }
+
+   .row2{
+     padding: 4%;
+    font-size: 1.5vw;
+   }
+    .card{
+    border: none;
+    border-radius: 50px;
+
+   }
+   .footer-menu a{
+    font-size: 1vw;
+    color: rgb(156, 214, 241);
+    text-align: center;
+    padding-left: 10px;
+    margin-left: 10px;
+    border:none;
+    padding-top: 0px ;
+
+   }
